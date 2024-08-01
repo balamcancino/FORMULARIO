@@ -1,0 +1,17 @@
+#login_section {
+    width: 40%;
+    height: 500px;
+    border: 1px #8c8db1 solid;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./public/images.jpeg");
+}
+
+
+  
+  #imprimir {
+    background-color: azure;
+  }
